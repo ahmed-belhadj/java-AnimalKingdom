@@ -1,0 +1,6 @@
+package com.company;
+
+public interface CheckAnimal
+{
+    boolean test(AbstractAnimal a);
+}
